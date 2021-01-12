@@ -1,0 +1,87 @@
+/*CHENG SI YUAN 19016011 */
+form{
+    margin: 0 auto; 
+    width: 350px;
+}
+h1{
+    margin: 0 auto; 
+    width: 600px;
+}
+#menu ul {
+    list-style-type: none;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu {
+    background-color: #333;
+}
+
+#menu li a {
+    display: block;
+    color: floralwhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.box-table th
+{
+    color: #039;
+    background: #b9c9fe;
+    border-top: 5px solid #aabcfe;
+    border-bottom: 2px solid #fff;
+    font-size: 15px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.box-table
+{
+    font-family: 'Times New Roman', serif;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 900px;
+
+}
+
+
+.box-table td
+{
+    padding: 10px;
+    background: #e8edff; 
+    border-bottom: 1px solid #fff;
+    color: #669;
+    border-top: 2px solid transparent;
+}
+
+#menu div {
+    float: right;
+    color: floralwhite;
+}
+
+li a:hover {
+    background-color: #111;
+}
+input[type=submit] {
+    padding: 16px 22px;
+    margin: 10px 0;
+    width: 100%;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #00cc00;
+    color: floralwhite;
+    
+    
+}
+
+input[type=submit]:hover {
+    background-color: #668cff;
+}
+
+
+/*CHENG SI YUAN 19016011 */
